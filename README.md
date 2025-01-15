@@ -6,3 +6,5 @@
 - Buns
 - Miller High Life
 - Ketchup 
+- Mustard
+- Arugula
